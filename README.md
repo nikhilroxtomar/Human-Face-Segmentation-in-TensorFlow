@@ -3,7 +3,7 @@
 This repository contains the code for `Multiclass Segmentation` on the human faces using `Landmark Guided Face Parsing` (LaPa) dataset. 
 
 # Dataset
-The LaPa dataset contains the training, validation and testing dataset. Each dataset have images, segmentation mask and the 106 human facial key points.
+The LaPa dataset contains the training, validation and testing dataset. Each dataset have images, segmentation mask and the 106 human facial key points. <br/>
 <br/>Download the dataset: [Landmark Guided Face Parsing (LaPa)](https://github.com/JDAI-CV/lapa-dataset)
 <br/>Dataset paper: [A New Dataset and Boundary-Attention Semantic Segmentation for Face Parsing](https://aaai.org/ojs/index.php/AAAI/article/view/6832/6686)
 
