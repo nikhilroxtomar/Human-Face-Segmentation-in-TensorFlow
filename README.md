@@ -1,6 +1,8 @@
 # Human Face Segmentation in TensorFlow
 
-This repository contains the code for `Multiclass Segmentation` on the human faces using `Landmark Guided Face Parsing` (LaPa) dataset. 
+This repository contains the code for `Multiclass Segmentation` on the human faces using `Landmark Guided Face Parsing` (LaPa) dataset.
+<br/><br/>
+**YouTube Tutorial:** [Human Face Segmentation using UNET in TensorFlow](https://youtu.be/yUOlLd-8jng)
 
 # Dataset
 The LaPa dataset contains the training, validation and testing dataset. Each dataset have images, segmentation mask and the 106 human facial key points. <br/>
